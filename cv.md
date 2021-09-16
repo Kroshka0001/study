@@ -23,8 +23,11 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 - __3ds Max__
 - __Flash__
 
-## __Experience__
+## __Past projects__
+- __[www.street](https://kroshka0001.github.io/www.street)__
+-
 
+## __Experience__
 
 ## __Education__
 
